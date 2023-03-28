@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "json-serve": "^0.1.0",
+    "sweetalert2": "^11.7.3"
+  }
+}
